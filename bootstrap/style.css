@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+/* html{
+    background-image: linear-gradient(to right,rgb(233, 251, 239) 0% , rgb(206, 206, 248) 100%);
+
+} */
+body{
+    margin: 0;
+}
+img{
+    
+}
+
+.btn:hover{
+    background-color:#235392;
+}
+/* .btn-outline-success{
+    bs-btn-color: #222624;
+    bs-btn-border-color: #171a19;
+} */
+aside{
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+section{
+    width: 40%;
+    float: left;
+    padding: 10px;
+
+}
+article{
+    width: 40%;
+    float: left;
+    padding: 10px;
+
+}
+
+/* @media screen and(max-width:600px) {
+    aside,section,article{
+      width: 100px;
+    }
+    
+  } */
